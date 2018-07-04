@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/ruaraidh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/5b6c8280f402a1546403a38c5426b1e1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

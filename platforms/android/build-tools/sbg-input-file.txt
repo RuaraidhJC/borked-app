@@ -1,0 +1,1 @@
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app
