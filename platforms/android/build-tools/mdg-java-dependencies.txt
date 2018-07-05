@@ -17,4 +17,3 @@
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/build/exploded-dependencies/17/support-annotations-25.3.1.jar
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/build/exploded-dependencies/3/classes.jar
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/build/exploded-dependencies/4/classes.jar
-/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/build/intermediates/classes/debug

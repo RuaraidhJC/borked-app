@@ -1,10 +1,10 @@
 <ActionBar class="action-bar">
-    <!-- 
+    <!--
     Use the NavigationButton as a side-drawer button in Android
     because ActionItems are shown on the right side of the ActionBar
     -->
     <NavigationButton ios:visibility="collapsed" icon="res://menu" (tap)="onDrawerButtonTap()"></NavigationButton>
-    <!-- 
+    <!--
     Use the ActionItem for IOS with position set to left. Using the
     NavigationButton as a side-drawer button in iOS is not possible,
     because its function is to always navigate back in the application.
@@ -15,7 +15,13 @@
     <Label class="action-bar-title" text="Home"></Label>
 </ActionBar>
 
-<GridLayout class="page page-content">
-    <Label class="page-icon fa" text="&#xf015;"></Label>
-    <Label class="page-placeholder" text="<!-- Page content goes here -->"></Label>
+<GridLayout tkExampleTitle tkToggleNavButton>
+    <RadListView [items]="dataItems">
+        <ng-template tkListItemTemplate let-item="item">
+            <StackLayout orientation="vertical">
+                <Label class="nameLabel" [text]="item.name"></Label>
+                <Label class="descriptionLabel" [text]="item.description"></Label>
+            </StackLayout>
+        </ng-template>
+    </RadListView>
 </GridLayout>

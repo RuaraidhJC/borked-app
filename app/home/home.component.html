@@ -15,14 +15,13 @@
     <Label class="action-bar-title" text="Home"></Label>
 </ActionBar>
 
-<GridLayout class="page page-content">
-    <ListView [items]="myItems" [itemTemplateSelector]="templateSelector">
-        <ng-template nsTemplateKey="header" let-item="item">
-            <header-component [data]="item"></header-component>
+<GridLayout tkExampleTitle tkToggleNavButton>
+    <RadListView [items]="dataItems">
+        <ng-template tkListItemTemplate let-item="item">
+            <StackLayout orientation="vertical">
+                <Label class="nameLabel" [text]="item.name"></Label>
+                <Label class="descriptionLabel" [text]="item.description"></Label>
+            </StackLayout>
         </ng-template>
-
-        <ng-template nsTemplateKey="item" let-item="item">
-            <item-component [data]="item"></item-component>
-        </ng-template>
-    </ListView>
+    </RadListView>
 </GridLayout>

@@ -8,6 +8,10 @@
         "directory": "../../node_modules/nativescript-theme-core"
     },
     {
+        "name": "nativescript-ui-listview",
+        "directory": "../../node_modules/nativescript-ui-listview"
+    },
+    {
         "name": "nativescript-ui-sidedrawer",
         "directory": "../../node_modules/nativescript-ui-sidedrawer"
     },

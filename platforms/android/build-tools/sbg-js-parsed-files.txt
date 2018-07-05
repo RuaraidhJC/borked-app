@@ -240,8 +240,14 @@
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/xml/xml.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/globals/globals.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/globals/decorators.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/nativescript-ui-listview/hooks/before-livesync/nativescript-angular-sync.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/nativescript-ui-listview/ui-listview.common.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/tns_modules/nativescript-ui-listview/ui-listview.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/mock-dataItems.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/home.component.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/home-routing.module.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/dataItem.js
+/home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/dataItem.service.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/home/home.module.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/featured/featured.module.js
 /home/ruaraidh/IdeaProjects/MHAmobile/platforms/android/app/src/main/assets/app/featured/featured-routing.module.js
